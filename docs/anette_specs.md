@@ -2,10 +2,10 @@ The Anette printer is based on Anet A6
 
 ## Non-printable changes from Anet A6
 
-1. PSU: 600W *(not sure, but it's BIG)*, 12V *(that sucks, I know*)
+1. PSU: Temporarily Meanwell 24V 600W. Will be changed to two different PSU's in the near future. 
 2. Motherboard: SKR 1.4 Turbo  
    *Quirk: pins for second extruder heater are used instead for a heatsink fan on the on the first (and only) extruder, so the heatsink fan can have PWM and turn on only when needed.*  
-3. Installed drivers: All a4488 *(good for extruder and Z, but for XY quiter drivers can be bought)*
+3. Installed drivers: All TMC 2209 
 4. Firmware: **Klipper** ✨ (Marlin compatible)
 5. Build volume: 220x220x170 *(170mm height can be safely upped to 190mm in the firmware, I think)*
 6. Extruder:  
