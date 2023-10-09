@@ -2,9 +2,9 @@
 
 Printer brought into space by @ubershy and @cake64
 
-Use SuperSlicer with 3mf in this folder.
+## [SuperSlicer configs are in another castle](https://github.com/hackerembassy/printer-plumbus/blob/main/Slicer%20Configs/keimoger's%20config/keiconfig.ini)
 
- - Compilation config for Klipper is in [./.config](./.config)
+
  - Klipper configuration is in [config.cfg](./config.cfg)
  - Anette specs in [anette_specs.md](./docs/anette_specs.md) 
  - Anette important info in [anette_important_info_and_tips.md](./docs/anette_important_info_and_tips.md)
