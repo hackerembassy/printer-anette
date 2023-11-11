@@ -1,8 +1,10 @@
+# [SuperSlicer configs are in another castle](https://github.com/hackerembassy/3d-printers)
+
+
 ### Anette
 
 Printer brought into space by @ubershy and @cake64
 
-## [SuperSlicer configs are in another castle](https://github.com/hackerembassy/printer-plumbus/blob/main/Slicer%20Configs/keimoger's%20config/keiconfig.ini)
 
 
  - Klipper configuration is in [config.cfg](./config.cfg)
